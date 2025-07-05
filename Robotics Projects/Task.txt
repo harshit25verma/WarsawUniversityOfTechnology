@@ -1,0 +1,1 @@
+Figure out a way to simulate the model to find a path in which it does not collide with any of the objects in it's path.
