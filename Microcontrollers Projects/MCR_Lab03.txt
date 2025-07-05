@@ -1,0 +1,9 @@
+Assignment 3
+Implement a motor controller, which allows for control over a linear stage with a stepper motor drive. 
+Use two types of user interfaces: - - 
+buttons from the development board for changing the movement direction (left/right) and 
+stopping the stage 
+serial connection with the PC for transmitting information about the state of operation (e.g., 
+“moving left”, “moving right”, “stopped”) from the MCU to the PC, and the same serial link for 
+transmitting stage speed settings from the PC to the MCU (using single characters from ‘0’ to 
+‘9’, where ‘0’ corresponds to the lowest speed, and ‘9’ to the greatest).
