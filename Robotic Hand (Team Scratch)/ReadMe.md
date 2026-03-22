@@ -40,7 +40,7 @@ The hand was developed from concept to functional prototype — covering mechani
 
 | Role | Member |
 |------|--------|
-| 🔩 Design & Modelling | Kacper |
+| 🔩 Design & Modelling | Kacper & Harshit |
 | ⚙️ Motor Calculations | Harshit |
 | 🖨️ 3D Printing | Kacper and Henrique |
 | 💻 Movement Code | Gregorz and Kacper |
